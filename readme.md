@@ -28,7 +28,7 @@
 <!-- ####Installation Instructions -->
 <!-- A brief overview of how to use the script in my post, "A Prescription for Managing and Tracking Your Time," to track time delegation in Google Calendar using a Google spreadsheet -->
 
-1. Download [this excel file](https://docs.google.com/spreadsheets/d/1ELRQ8M8bjhPlvydnJxGaMsTuwaKN6YKjQJLUZ3zmKFs/pub?output=xlsx), [upload it](https://docs.google.com/spreadsheets/u/0/) into Google Sheets, and add [this script](/files/time_management/time_tracker.js) to it.
+1. Download [this excel file](https://docs.google.com/spreadsheets/d/1ELRQ8M8bjhPlvydnJxGaMsTuwaKN6YKjQJLUZ3zmKFs/pub?output=xlsx), [upload it](https://docs.google.com/spreadsheets/u/0/) into Google Sheets, and add 'main.js' to it.
   
     <i>Right-click script link, select "Save Link As...", and save as .txt file</i><br>
     <i>Once you upload the excel file, open "Tools -> Script Editor..."</i><br>
