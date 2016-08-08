@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td>
-      <img class="regular materialboxed responsive-img" src="/files/time_management/ex_calendar_final_postweek.png">
+      <img class="regular materialboxed responsive-img" src="/img/ex_calendar_final_postweek.png">
     </td>
     <td>
-      <img class="regular materialboxed responsive-img" src="/files/time_management/ex_spreadsheet_final_postweek.png">
+      <img class="regular materialboxed responsive-img" src="/img/ex_spreadsheet_final_postweek.png">
     </td>
   </tr>
   <tr>
