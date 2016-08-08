@@ -49,4 +49,4 @@
 
 **Good luck managing your time! Please leave any comments, suggestions, or questions below.**
 
-#####For details on how I use this tool, check out [this post](/2016/01/08/TimeManagementPrescription.html).
+#####For details on how I use this tool, check out [this post](https://wcarvalho.github.io/2016/01/08/TimeManagementPrescription.html).
