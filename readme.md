@@ -18,7 +18,7 @@
 <b>Menu:</b>
 
 | Feature | Purpose |
-| - | - |
+| --- | --- |
 | Fill Category Times | Fill in B3 onwards with the times for events in the categories above |
 | Fill Calendar Times | Fill in C8 onwards with the time assigned to their corresponding calendars |
 | Fill Calendar Row Colors | Color in the calendar rows according to the colors written in A8 onwards |
